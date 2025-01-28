@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./css/styles-test.css" />
+        <title>Build a Survey Form | freeCodeCamp Responsive Web Design Certification Project</title>
+    </head>
+    <body>
+        <main id="container">
+            <header id="header">
+                <h1 id="title">Ink<span class="grey-color">Design</span> Survey <span class="pink-color">Form</span></h1>
+                <p id="description">Help us improve our designs by giving us your feedback</p>
+            </header>
+            <form id="survey-form">
+                <div id="form-name">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Enter your name" required />
+                </div>
+                <div id="form-email">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="name" placeholder="Enter your email" required />
+                </div>
+                <div id="form-age">
+                    <label for="number">Age (optional)</label>
+                    <input type="number" id="number" name="number" placeholder="Enter your age" required min="6" max="120" />
+                </div>
+                <div id="form-language">
+                    <label for="dropdown">Language</label>
+                    <select id="dropdown" name="language">
+                        <option value="" disabled selected>Select your language</option>
+                        <option value="français">Français</option>
+                        <option value="english">English</option>
+                        <option value="español">Español</option>
+                        <option value="chinese-simplified">中文（简体字 简化字</option>
+                        <option value="chinese-traditional">中文（繁體字)中文</option>
+                    </select>
+                </div>
+                <fieldset id="form-gender">
+                    <legend>Gender</legend>
+                    <div id="gender-female">
+                        <input type="radio" id="female" name="gender" value="female" checked />
+                        <label for="female">Female</label>
+                    </div>
+                    <div id="gender-male">
+                        <input type="radio" id="male" name="gender" value="male" />
+                        <label for="male">Male</label>
+                    </div>
+                    <div id="gender-other">
+                        <input type="radio" id="other" name="gender" value="other" />
+                        <label for="other">Other</label>
+                    </div>
+                    <div id="gender-no-answer">
+                        <input type="radio" id="no-answer" name="gender" value="no-answer" />
+                        <label for="no-answer">Prefer not to say</label>
+                    </div>
+                </fieldset>
+                <fieldset id="form-design">
+                    <legend>What were your favorite designs in the last newsletter?</legend>
+                    <div id="design-design-1">
+                        <input type="checkbox" id="design-1" name="design-preference" value="design-1" checked />
+                        <label for="design-1">Design 1</label>
+                    </div>
+                    <div id="design-design-2">
+                        <input type="checkbox" id="design-2" name="design-preference" value="design-2" />
+                        <label for="design-2">Design 2</label>
+                    </div>
+                    <div id="design-design-3">
+                        <input type="checkbox" id="design-3" name="design-preference" value="design-3" />
+                        <label for="design-3">Design 3</label>
+                    </div>
+                </fieldset>
+                <div id="form-additional-comment">
+                    <label for="additional-comment">What reason(s) led you to make this choice?</label>
+                    <textarea id="additional-comment" name="additional-comment" rows="4" placeholder="The reason why is..."></textarea>
+                </div>
+                <button type="submit" id="submit" name="submit" value="Submit">Submit</button>
+            </form>
+        </main>
+    </body>
+</html>
