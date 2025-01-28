@@ -114,9 +114,9 @@ Make this page responsive, and change the absolute values with relative ones whe
 
 ### Useful resources
 
-- [Figma Tutorial for UI Design - Course for Beginners | freeCodeCamp](https://www.youtube.com/watch?v=jwCmIBJ8Jtc) - This ressource helped me to dig deeper into Figma. It is a awesome tutorial that cover most of the aspects of Figma, which can also indirictly help with other designing sofware.
-- [How to Design a Website – A UX Wireframe Tutorial](https://www.youtube.com/watch?v=pN92rnO_n5U) - Good intro for designing websites.
-- [UI Design Tutorial - Website From Wireframe](https://www.youtube.com/watch?v=_P3CrgFlXhg) - Next of the previous video.
+- [Figma Tutorial for UI Design - Course for Beginners | freeCodeCamp](https://www.youtube.com/watch?v=jwCmIBJ8Jtc) - This resource helped me dive deeper into Figma. It is an awesome tutorial that covers most aspects of Figma, which can also indirectly help with other design software.
+- [How to Design a Website – A UX Wireframe Tutorial](https://www.youtube.com/watch?v=pN92rnO_n5U) - A great introduction to designing websites.
+- [UI Design Tutorial - Website From Wireframe](https://www.youtube.com/watch?v=_P3CrgFlXhg) - The continuation of the previous video, focusing on creating a website from a wireframe.
 
 ## Author
 
