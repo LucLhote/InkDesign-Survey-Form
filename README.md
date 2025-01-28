@@ -49,8 +49,8 @@ The project involved building an app functionally similar to [this survey form](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LucLhote/FrontendMentor-Stats-preview-card-component-challenge)
-- Live Site URL: [Add live site URL here](https://luclhote.github.io/FrontendMentor-Stats-preview-card-component-challenge/)
+- Solution URL: [GitHub Repository](https://github.com/LucLhote/InkDesign-Survey-Form)
+- Live Site URL: [InkDesign Survey Form](https://luclhote.github.io/InkDesign-Survey-Form/)
 
 ## My process
 
